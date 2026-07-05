@@ -1,0 +1,6 @@
+{
+  "name": "SynthSnake",
+  "description": "An elegant synthwave-styled Snake game with an integrated audio synthesizer music player, custom tracks, sound spectrum visualizer, multiplier system, and speed pacing matched with the music rhythm.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
